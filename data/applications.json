@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1729608929293",
+    "company": "KMPG",
+    "position": "Director, Pricing Analytics",
+    "jobUrl": "https://www.kpmguscareers.com/jobdetail/?jobId=118683&srcCat=Direct+Contact&specSrc=LinkedIn",
+    "status": "applied",
+    "notes": "I'm applying because I know someone who works there",
+    "createdAt": "2024-10-22T14:55:29.293Z",
+    "updatedAt": "2024-10-22T14:55:29.293Z"
+  },
+  {
+    "id": "1729609032826",
+    "company": "Walmart",
+    "position": "Director, Data science",
+    "jobUrl": "https://careers.walmart.com/us/jobs/WD2013077-director-data-science",
+    "status": "screening",
+    "notes": "",
+    "createdAt": "2024-10-22T14:57:12.826Z",
+    "updatedAt": "2024-10-22T14:57:12.826Z"
+  }
+]
